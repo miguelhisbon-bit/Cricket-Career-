@@ -1,0 +1,8 @@
+{
+  "name": "Remix Real Cricket Career RPG",
+  "description": "Realistic and immersive mobile-first Cricket Career Role-Playing Simulator with deep player progression, interactive matches, press conferences, and lifestyle management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
